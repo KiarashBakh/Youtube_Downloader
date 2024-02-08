@@ -1,0 +1,1 @@
+pyinstaller --hidden-import 'Yt_downloader' --onefile -w 'main.py' --icon youtube_logo_icon_147199.ico --name Youtube_Downloader
